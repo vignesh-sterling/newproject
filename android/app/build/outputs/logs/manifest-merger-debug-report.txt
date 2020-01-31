@@ -1,0 +1,158 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/linga/Desktop/final project/newproject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/linga/Desktop/final project/newproject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/linga/Desktop/final project/newproject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/linga/Desktop/final project/newproject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-svg] /home/linga/Desktop/final project/newproject/node_modules/react-native-svg/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.55.3] /home/linga/.gradle/caches/transforms-2/files-2.1/686aca988ef9d19e5f2f67392e3b5082/react-native-0.55.3/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:27.0.1] /home/linga/.gradle/caches/transforms-2/files-2.1/7741b953bdba2f5dfbe6d5c785d9acdb/appcompat-v7-27.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.1] /home/linga/.gradle/caches/transforms-2/files-2.1/e786a5a4dbb7947de9f3f728edfdc4fa/support-fragment-27.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.1] /home/linga/.gradle/caches/transforms-2/files-2.1/2ffaf3e740df6340624644eab600c453/support-core-utils-27.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.1] /home/linga/.gradle/caches/transforms-2/files-2.1/231eb4c4a9983267319edeece107c81c/animated-vector-drawable-27.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.1] /home/linga/.gradle/caches/transforms-2/files-2.1/ac61d775a79e12c49c71bf86b8374343/support-vector-drawable-27.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.1] /home/linga/.gradle/caches/transforms-2/files-2.1/7da4049f50b4ceb7fdffc3ee96d43b8e/support-core-ui-27.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.1] /home/linga/.gradle/caches/transforms-2/files-2.1/8a8817015ccdbe3dbfceeddedf7389bb/support-compat-27.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /home/linga/.gradle/caches/transforms-2/files-2.1/67400f92cac809c5013bb6da647a0265/textlayoutbuilder-1.0.0/AndroidManifest.xml:10:1-18:12
+MERGED from [com.facebook.fresco:fresco:1.3.0] /home/linga/.gradle/caches/transforms-2/files-2.1/33ad6b58e7f5addf5990d2facd1366a0/fresco-1.3.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /home/linga/.gradle/caches/transforms-2/files-2.1/c1f76bb0f0652114013f89a885f08e36/imagepipeline-okhttp3-1.3.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.1.0] /home/linga/.gradle/caches/transforms-2/files-2.1/e94120828ad7df1a0cdad8f2d523d2a7/soloader-0.1.0/AndroidManifest.xml:1:1-4:12
+MERGED from [org.webkit:android-jsc:r174650] /home/linga/.gradle/caches/transforms-2/files-2.1/4ceb23145966e034279f8c75547c692b/android-jsc-r174650/AndroidManifest.xml:1:1-3:12
+MERGED from [com.facebook.fresco:drawee:1.3.0] /home/linga/.gradle/caches/transforms-2/files-2.1/7599c25ad2377c303e1fab3fe0cbccb5/drawee-1.3.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /home/linga/.gradle/caches/transforms-2/files-2.1/7d5fa6f1abcc2d6942497d71401469a0/imagepipeline-1.3.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /home/linga/.gradle/caches/transforms-2/files-2.1/8de325af4333d5226a8964b24d0ffb36/imagepipeline-base-1.3.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /home/linga/.gradle/caches/transforms-2/files-2.1/50b40db2ee42eb27d0ecaf0fbb3d2e01/fbcore-1.3.0/AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/linga/.gradle/caches/transforms-2/files-2.1/d0f6449185399ce77e6ff49656abaac3/runtime-1.0.0/AndroidManifest.xml:17:1-30:12
+INJECTED from /home/linga/Desktop/final project/newproject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/linga/Desktop/final project/newproject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/linga/Desktop/final project/newproject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from /home/linga/Desktop/final project/newproject/android/app/src/main/AndroidManifest.xml:2:5-29
+		INJECTED from /home/linga/Desktop/final project/newproject/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/linga/Desktop/final project/newproject/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/linga/Desktop/final project/newproject/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/linga/Desktop/final project/newproject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /home/linga/Desktop/final project/newproject/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/linga/Desktop/final project/newproject/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/linga/Desktop/final project/newproject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /home/linga/Desktop/final project/newproject/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/linga/Desktop/final project/newproject/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/linga/Desktop/final project/newproject/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /home/linga/Desktop/final project/newproject/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/linga/Desktop/final project/newproject/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.55.3] /home/linga/.gradle/caches/transforms-2/files-2.1/686aca988ef9d19e5f2f67392e3b5082/react-native-0.55.3/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.55.3] /home/linga/.gradle/caches/transforms-2/files-2.1/686aca988ef9d19e5f2f67392e3b5082/react-native-0.55.3/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /home/linga/Desktop/final project/newproject/android/app/src/main/AndroidManifest.xml:5:22-75
+application
+ADDED from /home/linga/Desktop/final project/newproject/android/app/src/main/AndroidManifest.xml:7:5-24:19
+MERGED from [com.facebook.react:react-native:0.55.3] /home/linga/.gradle/caches/transforms-2/files-2.1/686aca988ef9d19e5f2f67392e3b5082/react-native-0.55.3/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.55.3] /home/linga/.gradle/caches/transforms-2/files-2.1/686aca988ef9d19e5f2f67392e3b5082/react-native-0.55.3/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.soloader:soloader:0.1.0] /home/linga/.gradle/caches/transforms-2/files-2.1/e94120828ad7df1a0cdad8f2d523d2a7/soloader-0.1.0/AndroidManifest.xml:3:3-17
+MERGED from [com.facebook.soloader:soloader:0.1.0] /home/linga/.gradle/caches/transforms-2/files-2.1/e94120828ad7df1a0cdad8f2d523d2a7/soloader-0.1.0/AndroidManifest.xml:3:3-17
+MERGED from [org.webkit:android-jsc:r174650] /home/linga/.gradle/caches/transforms-2/files-2.1/4ceb23145966e034279f8c75547c692b/android-jsc-r174650/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /home/linga/.gradle/caches/transforms-2/files-2.1/4ceb23145966e034279f8c75547c692b/android-jsc-r174650/AndroidManifest.xml:2:3-17
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/linga/.gradle/caches/transforms-2/files-2.1/d0f6449185399ce77e6ff49656abaac3/runtime-1.0.0/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/linga/.gradle/caches/transforms-2/files-2.1/d0f6449185399ce77e6ff49656abaac3/runtime-1.0.0/AndroidManifest.xml:24:5-28:19
+	android:label
+		ADDED from /home/linga/Desktop/final project/newproject/android/app/src/main/AndroidManifest.xml:9:7-39
+	android:icon
+		ADDED from /home/linga/Desktop/final project/newproject/android/app/src/main/AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from /home/linga/Desktop/final project/newproject/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /home/linga/Desktop/final project/newproject/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /home/linga/Desktop/final project/newproject/android/app/src/main/AndroidManifest.xml:8:7-38
+activity#com.newproject.MainActivity
+ADDED from /home/linga/Desktop/final project/newproject/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /home/linga/Desktop/final project/newproject/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /home/linga/Desktop/final project/newproject/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /home/linga/Desktop/final project/newproject/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /home/linga/Desktop/final project/newproject/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/linga/Desktop/final project/newproject/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /home/linga/Desktop/final project/newproject/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /home/linga/Desktop/final project/newproject/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/linga/Desktop/final project/newproject/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /home/linga/Desktop/final project/newproject/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /home/linga/Desktop/final project/newproject/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /home/linga/Desktop/final project/newproject/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /home/linga/Desktop/final project/newproject/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/linga/Desktop/final project/newproject/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/linga/Desktop/final project/newproject/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-svg] /home/linga/Desktop/final project/newproject/node_modules/react-native-svg/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-svg] /home/linga/Desktop/final project/newproject/node_modules/react-native-svg/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.55.3] /home/linga/.gradle/caches/transforms-2/files-2.1/686aca988ef9d19e5f2f67392e3b5082/react-native-0.55.3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.55.3] /home/linga/.gradle/caches/transforms-2/files-2.1/686aca988ef9d19e5f2f67392e3b5082/react-native-0.55.3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.0.1] /home/linga/.gradle/caches/transforms-2/files-2.1/7741b953bdba2f5dfbe6d5c785d9acdb/appcompat-v7-27.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.1] /home/linga/.gradle/caches/transforms-2/files-2.1/7741b953bdba2f5dfbe6d5c785d9acdb/appcompat-v7-27.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.1] /home/linga/.gradle/caches/transforms-2/files-2.1/e786a5a4dbb7947de9f3f728edfdc4fa/support-fragment-27.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.1] /home/linga/.gradle/caches/transforms-2/files-2.1/e786a5a4dbb7947de9f3f728edfdc4fa/support-fragment-27.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.1] /home/linga/.gradle/caches/transforms-2/files-2.1/2ffaf3e740df6340624644eab600c453/support-core-utils-27.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.1] /home/linga/.gradle/caches/transforms-2/files-2.1/2ffaf3e740df6340624644eab600c453/support-core-utils-27.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.1] /home/linga/.gradle/caches/transforms-2/files-2.1/231eb4c4a9983267319edeece107c81c/animated-vector-drawable-27.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.1] /home/linga/.gradle/caches/transforms-2/files-2.1/231eb4c4a9983267319edeece107c81c/animated-vector-drawable-27.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.1] /home/linga/.gradle/caches/transforms-2/files-2.1/ac61d775a79e12c49c71bf86b8374343/support-vector-drawable-27.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.1] /home/linga/.gradle/caches/transforms-2/files-2.1/ac61d775a79e12c49c71bf86b8374343/support-vector-drawable-27.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.1] /home/linga/.gradle/caches/transforms-2/files-2.1/7da4049f50b4ceb7fdffc3ee96d43b8e/support-core-ui-27.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.1] /home/linga/.gradle/caches/transforms-2/files-2.1/7da4049f50b4ceb7fdffc3ee96d43b8e/support-core-ui-27.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.1] /home/linga/.gradle/caches/transforms-2/files-2.1/8a8817015ccdbe3dbfceeddedf7389bb/support-compat-27.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.1] /home/linga/.gradle/caches/transforms-2/files-2.1/8a8817015ccdbe3dbfceeddedf7389bb/support-compat-27.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /home/linga/.gradle/caches/transforms-2/files-2.1/67400f92cac809c5013bb6da647a0265/textlayoutbuilder-1.0.0/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /home/linga/.gradle/caches/transforms-2/files-2.1/67400f92cac809c5013bb6da647a0265/textlayoutbuilder-1.0.0/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] /home/linga/.gradle/caches/transforms-2/files-2.1/33ad6b58e7f5addf5990d2facd1366a0/fresco-1.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] /home/linga/.gradle/caches/transforms-2/files-2.1/33ad6b58e7f5addf5990d2facd1366a0/fresco-1.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /home/linga/.gradle/caches/transforms-2/files-2.1/c1f76bb0f0652114013f89a885f08e36/imagepipeline-okhttp3-1.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /home/linga/.gradle/caches/transforms-2/files-2.1/c1f76bb0f0652114013f89a885f08e36/imagepipeline-okhttp3-1.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.1.0] /home/linga/.gradle/caches/transforms-2/files-2.1/e94120828ad7df1a0cdad8f2d523d2a7/soloader-0.1.0/AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.soloader:soloader:0.1.0] /home/linga/.gradle/caches/transforms-2/files-2.1/e94120828ad7df1a0cdad8f2d523d2a7/soloader-0.1.0/AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.fresco:drawee:1.3.0] /home/linga/.gradle/caches/transforms-2/files-2.1/7599c25ad2377c303e1fab3fe0cbccb5/drawee-1.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.3.0] /home/linga/.gradle/caches/transforms-2/files-2.1/7599c25ad2377c303e1fab3fe0cbccb5/drawee-1.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /home/linga/.gradle/caches/transforms-2/files-2.1/7d5fa6f1abcc2d6942497d71401469a0/imagepipeline-1.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /home/linga/.gradle/caches/transforms-2/files-2.1/7d5fa6f1abcc2d6942497d71401469a0/imagepipeline-1.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /home/linga/.gradle/caches/transforms-2/files-2.1/8de325af4333d5226a8964b24d0ffb36/imagepipeline-base-1.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /home/linga/.gradle/caches/transforms-2/files-2.1/8de325af4333d5226a8964b24d0ffb36/imagepipeline-base-1.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /home/linga/.gradle/caches/transforms-2/files-2.1/50b40db2ee42eb27d0ecaf0fbb3d2e01/fbcore-1.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /home/linga/.gradle/caches/transforms-2/files-2.1/50b40db2ee42eb27d0ecaf0fbb3d2e01/fbcore-1.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/linga/.gradle/caches/transforms-2/files-2.1/d0f6449185399ce77e6ff49656abaac3/runtime-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/linga/.gradle/caches/transforms-2/files-2.1/d0f6449185399ce77e6ff49656abaac3/runtime-1.0.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/linga/Desktop/final project/newproject/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/linga/Desktop/final project/newproject/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/linga/Desktop/final project/newproject/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/linga/Desktop/final project/newproject/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/linga/Desktop/final project/newproject/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/linga/Desktop/final project/newproject/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/linga/Desktop/final project/newproject/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/linga/Desktop/final project/newproject/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /home/linga/Desktop/final project/newproject/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /home/linga/Desktop/final project/newproject/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /home/linga/Desktop/final project/newproject/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/linga/.gradle/caches/transforms-2/files-2.1/d0f6449185399ce77e6ff49656abaac3/runtime-1.0.0/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/linga/.gradle/caches/transforms-2/files-2.1/d0f6449185399ce77e6ff49656abaac3/runtime-1.0.0/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/linga/.gradle/caches/transforms-2/files-2.1/d0f6449185399ce77e6ff49656abaac3/runtime-1.0.0/AndroidManifest.xml:26:13-58
